@@ -5,6 +5,10 @@ This is a modified ramips build for the netgear R6220.
 
 **Factory partition adjusted to <0x2de0000>**, verify WAN interface MAC address with that printed on packaging.
 
+**If your R6220 is still unable to read the correct MAC address, try this [build](https://github.com/jayanta525/openwrt-netgear-r6220-100ins).**
+
+**If the issue persists, try original builds from [OpenWrt](https://openwrt.org/downloads).**
+
 The package selection and configuration was intended for personal/home use and is overall lighter. This build includes LuCi interface with some useful luci-applications such as adblock, printer-server, samba, mwan3, sqm, etc.
 **Change branch for base builds.**
 
