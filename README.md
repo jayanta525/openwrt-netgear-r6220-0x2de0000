@@ -1,4 +1,5 @@
 # Netgear R6220 AC1200 OpenWrt Firmware
+# Factory partition: <0x2de0000>
 
 This is a modified ramips build for the netgear R6220.
 
