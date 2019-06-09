@@ -1,3 +1,7 @@
+# UPDATED BUILDS HERE: 
+https://github.com/jayanta525/openwrt-netgear-r6220-100ins
+
+Jo-Philipp Wich's patch is applied. Build might work for both flash models.
 # Netgear R6220 AC1200 OpenWrt Firmware
 **Factory partition: <0x2de0000>**
 
